@@ -12,7 +12,7 @@
 ### v2 (개발중)
 
 - 2022.04.07 ~ 현재
-    - [land-v2.hwahyang.space](https://land-v2.hwahyang.space) ([Repo](https://github.com/hwahyang-space/v2_ComingSoon))
+    - 페이지 전체 (ARCHIVE: [land-v2.hwahyang.space](https://land-v2.hwahyang.space)) ([Repo](https://github.com/hwahyang-space/v2_ComingSoon))
     - [hwahyang.space](https://hwahyang.space)
     - [pf.hwahyang.space](https://pf.hwahyang.space)
     - [dash.hwahyang.space](https://dash.hwahyang.space)
