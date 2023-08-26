@@ -13,6 +13,8 @@
 
 - 2022.04.07 ~ 현재
     - 페이지 전체 (ARCHIVE: [land-v2.hwahyang.space](https://land-v2.hwahyang.space)) ([Repo](https://github.com/hwahyang-space/v2_ComingSoon))
-    - [hwahyang.space](https://hwahyang.space)
-    - [pf.hwahyang.space](https://pf.hwahyang.space)
-    - [dash.hwahyang.space](https://dash.hwahyang.space)
+    - [hwahyang.space](https://hwahyang.space) ([Repo](https://github.com/hwahyang-space/v2_Main))
+    - [pf.hwahyang.space](https://pf.hwahyang.space) ([Repo](https://github.com/hwahyang-space/v2_Portfolio))
+    - [dash.hwahyang.space](https://dash.hwahyang.space) ([Repo](https://github.com/hwahyang-space/v2_DashBoard))
+    - [api.hwahyang.space](https://api.hwahyang.space) ([Repo](https://github.com/hwahyang-space/v2_Api))
+    - [cdn.hwahyang.space](https://cdn.hwahyang.space)
