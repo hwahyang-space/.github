@@ -26,5 +26,5 @@
   <summary>펼치기/접기</summary>
 
 &nbsp;
-![hspace_v2_Flow.png](./hspace_v2_Flow.png)
+![hspace_v2_Flow.png](https://raw.githubusercontent.com/hwahyang-space/.github/main/profile/hspace_v2_Flow.png)
 </details>
