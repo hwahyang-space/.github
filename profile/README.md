@@ -16,7 +16,6 @@
   - [hwahyang.space](https://hwahyang.space) ([Repo](https://github.com/hwahyang-space/v2_Main))
   - [pf.hwahyang.space](https://pf.hwahyang.space) ([Repo](https://github.com/hwahyang-space/v2_Portfolio))
   - [dash.hwahyang.space](https://dash.hwahyang.space) ([Repo](https://github.com/hwahyang-space/v2_DashBoard))
-  - [auth.hwahyang.space](https://auth.hwahyang.space) ([Repo](https://github.com/hwahyang-space/v2_Authentication))
   - [api.hwahyang.space](https://api.hwahyang.space) ([Repo](https://github.com/hwahyang-space/v2_Api))
   - [cdn.hwahyang.space](https://cdn.hwahyang.space)
 
