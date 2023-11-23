@@ -18,7 +18,6 @@
   - [blog.hwahyang.space](https://blog.hwahyang.space) ([Repo](https://github.com/hwahyang-space/v2_Blog))
   - [dash.hwahyang.space](https://dash.hwahyang.space) ([Repo](https://github.com/hwahyang-space/v2_DashBoard))
   - [api.hwahyang.space](https://api.hwahyang.space) ([Repo](https://github.com/hwahyang-space/v2_Api))
-  - [cdn.hwahyang.space](https://cdn.hwahyang.space)
 
 #### v2 구조도
 
